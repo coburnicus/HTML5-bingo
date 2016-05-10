@@ -27,7 +27,7 @@ var JSONBingo = {"squares": [
         {"square": "\"Is everyone here?\""},
         {"square": "\"Did we just lose ______?\""},
         {"square": "Two people whose voices sound similar"},
-        {"square": "\"Just wanted to get on the same page.\""},
+        {"square": "Somebody can't get video camera working"},
         {"square": "Under-caffeinated West Coaster"},
         {"square": "Video freezes at unflattering moment"},
         {"square": "Echo issues"},
